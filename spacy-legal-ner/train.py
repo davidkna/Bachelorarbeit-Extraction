@@ -1,39 +1,57 @@
 import spacy
 import random
 from spacy.util import minibatch
-from spacy.tokens import DocBin
-from spacy.training import Example
 from spacy.scorer import Scorer
+from spacy.training import Corpus
+
+random.seed(0)
 
 nlp = spacy.load("de_core_news_sm")
 
-to_train = "ner"
-to_exclude = [pipe for pipe in nlp.pipe_names if pipe != to_train]
+ner = nlp.get_pipe("ner")
+for i in [
+    # in Spacy
+    # LOC, MISC, ORG, PER
+    # Personenname
+    "RR", "AN",
+    # Ortsnamen
+    "LD", "ST", "STR", "LDS",
+    # Organisationsnamen
+    "INN", "GRT", "UN", "MRK"
+    # Normanenamen und -zitate
+    "GS", "VO", "EUN",
+    # Einzelfallreglungnamen und -zitate
+    "VS", "VT",
+    # Rechtssprechungszitate
+    "RS",
+    # Rechtsliteraturzitate
+    "LIT"
+]:
+    ner.add_label(i)
 
-nlp = spacy.load("de_core_news_sm", disable=to_exclude)
-scorer = Scorer(nlp)
+corpus = Corpus("./bag.spacy")
 
-doc_bin = DocBin().from_disk("bag.spacy")
-docs = list(doc_bin.get_docs(nlp.vocab))
 
-optimizer = nlp.create_optimizer()
+with nlp.select_pipes(enable="ner"):
+    optimizer = nlp.resume_training()
+    scorer = Scorer(nlp)
 
-for itn in range(100):
-    print(f"Epoch {itn}")
-    random.shuffle(docs)
-    losses = {}
-    examples = []
-    for batch in minibatch(docs, 100):
-        last_batch = batch
-        examples = list(map(lambda d: Example(nlp.make_doc(d.text), d), batch))
+    for itn in range(100):
+        print(f"Epoch {itn}")
+        train_data = list(corpus(nlp))
+        random.shuffle(train_data)
+        losses = {}
+        examples = []
+        for batch in minibatch(train_data, 100):
+            examples = batch
 
-        nlp.update(examples, sgd=optimizer, losses=losses, drop=0.4)
+            nlp.update(batch, sgd=optimizer, losses=losses, drop=0.4)
 
+            scores = scorer.score(examples)
+
+        print(f"losses: {losses}")
         scores = scorer.score(examples)
-
-    print(f"losses: {losses}")
-    scores = scorer.score(examples)
-    for i in ["ents_p", "ents_r", "ents_f"]:
-        print(f"{i}: {scores[i]}")
+        for i in ["ents_p", "ents_r", "ents_f"]:
+            print(f"{i}: {scores[i]}")
 
 nlp.from_disk("out")
