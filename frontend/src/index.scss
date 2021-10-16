@@ -1,0 +1,12 @@
+$enable-cssgrid: true;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.popover {
+  max-width: 60vw;
+}
+
+body {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}

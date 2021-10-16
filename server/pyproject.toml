@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "urteile-server"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+# NLP
+spacy = "^3.1.2"
+de_core_news_lg = { url = "https://github.com/explosion/spacy-models/releases/download/de_core_news_lg-3.1.0/de_core_news_lg-3.1.0-py3-none-any.whl" }
+sentence-transformers = "^2.0.0"
+polyleven = "^0.7"
+stanza = "^1.2.2"
+networkx = "^2.6.2"
+
+# HTML parsing
+beautifulsoup4 = "^4.9.3"
+html5lib = "^1.1"
+
+# HTTP
+uvicorn = "^0.15.0"
+fastapi = "^0.68.0"
+httpx = "^0.19.0"
+
+# Misc
+pydantic = "^1.8.2"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+start = "urteile_server.main:start"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

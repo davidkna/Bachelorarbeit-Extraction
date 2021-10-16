@@ -1,0 +1,255 @@
+[
+    {
+        "tatbestand": "Der Kläger erwarb am 27.09.2010 beim Autohaus H4. in O3.-K3. einen Pkw Volkswagen Tiguan Sport & Style 2.0 TDI zum Preis von 28.607,00 € (Anlage K 1), der von der Beklagten entwickelt, produziert und in Verkehr gebracht worden ist.",
+        "begründung": [
+            "Er hat folglich Anspruch auf Zahlung des unstreitigen Kaufpreises in Höhe von 28.607,- €, muss jedoch gleichzeitig im Wege des Vorteilsausgleichs das streitgegenständliche Fahrzeug an die Beklagte herausgeben und übereignen (dem ist in Form einer Zug um Zug"
+        ]
+    },
+    {
+        "tatbestand": "Bei Erwerb betrug der km-Stand laut Vertragsurkunde 0 km.",
+        "begründung": [
+            "Die tatsächlich gefahrenen Kilometer bis zum Schluss der mündlichen Verhandlung entnimmt das Gericht den unstreitigen Angaben beider Parteien, die übereinstimmend einen km-Stand von 177.793 km angegeben haben, wobei der km-Stand bei Übergabe an den Kläger 0 km betragen hat."
+        ]
+    },
+    {
+        "tatbestand": "Der in dem Fahrzeug verbaute Dieselmotor des Typs EA 189 verfügte zum Zeitpunkt des Kaufvertragsschlusses über eine Software, die Stickoxidwerte (NOx) im Prüfstandlauf optimiert (sog. Umschaltlogik).",
+        "begründung": [
+            "Objektive Anhaltspunkte dafür, dass dies im konkreten Fall ausnahmsweise anders war - der Kläger das Fahrzeug mithin auch in Kenntnis der Umschaltlogik zu den vereinbarten Konditionen erworben hätte - sind weder vorgetragen, noch ersichtlich.",
+            "Die von der Beklagten geschilderte Umschaltlogik - d.h. der Betrieb in zwei verschiedenen Betriebsmodi, bei Rückführung von Emissionen aus dem Verbrennungsprozess durch eine Abgasrückführung teilweise wieder in den Verbrennungsprozess hinein - ist Teil eines Emissionskontrollsystems im Sinne von Art.",
+            "Unter Berücksichtigung dieser Grundsätze - denen das Gericht folgt - stellt bereits die Tatsache, dass der Kläger aufgrund des Verschweigens der Beklagten über den Einsatz der Umschaltlogik bzw. der Motorsteuerungssoftware einen für ihn ungewollten wirtschaftlich nachteiligen Vertrag (Anlage K 1) mit dem Veräußerer des streitgegenständlichen Pkw geschlossen hat, einen derartigen Schaden dar, da sein Vermögen bereits dadurch - unabhängig von einem messbaren Vermögensnachteil durch einen entstehenden Wertverlust - mit einer ungewollten Verbindlichkeit negativ belastet ist.",
+            "Nachdem die Nutzung während der gesamten Besitzzeit des Klägers - trotz der Umschaltlogik - nicht beeinträchtigt war, kann aus dem bloßen Umstand der Mangelhaftigkeit nicht abgeleitet werden, dass Nutzungsentschädigung nicht geschuldet ist (so auch LG Hamburg, Urteil vom 18.05.2018 - 308 O 308/17 = zitiert nach juris)."
+        ]
+    },
+    {
+        "tatbestand": "Sie erkennt, wenn das Fahrzeug den „Neuen Europäischen Fahrzyklus“ (NEFZ) durchfährt und schaltet das regulär im Betriebsmodus 0 (Straßenbetrieb) betriebene Fahrzeug dann in den Betriebsmodus 1, in dem der Ausstoß von Stickoxiden dadurch verringert wird, dass mehr Abgas über die Abgasrückführung in den Ansaugtrakt des Motors zurückgeführt wird.",
+        "begründung": [
+            "Die Motorsteuerung der Beklagten knüpft demgegenüber nicht an bestimmte Betriebszustände oder Umweltbedingungen an, sondern ausschließlich an die Feststellung des NEFZ, zielt also bewusst auf eine Steuerung der Emissionen für den Ausnahmefall der Genehmigungsprüfung.“ (so zutreffend LG Stuttgart, Urteil vom 08.02.2018 - 19 O 68/17 = zitiert nach juris;",
+            "Die Motorsteuerung, die den Prüfzyklus erkennt, schaltet im Modus 0 (regulärer Straßenbetrieb) die Abgasrückführung, die der Kontrolle der Emissionen und der Reduzierung des Schadstoffausstoßes dient, ab."
+        ]
+    },
+    {
+        "tatbestand": "Dadurch werden auf dem Prüfstand geringere Stickoxidwerte (NOx) erzielt und es konnten im Testzyklus die nach der Euro-5-Abgasnorm (Verordnung (EG) 715/2007 vom 20.06.2007) vorgegebenen Werte eingehalten werden.",
+        "begründung": [
+            "Art. 3 Nr. 10 VO (EG) 715/2007 eingebaut war, die einer Zulassung objektiv entgegenstand.",
+            "Soweit von Beklagtenseite und teilweise auch in der Rechtsprechung (vgl. LG Köln, Urteil vom 07.10.2016 - 7 O 138/16 LG Ellwangen, Urteil vom 10.06.2016 - 5 O 385/15 LG Braunschweig, Urteil vom 19. Mai 2017 - 11 O 4153/16 - jeweils zitiert nach juris) die Auffassung vertreten wird, eine Haftung nach § 826 BGB scheide schon deshalb aus, weil die Verordnung (EG) Nr. 715/2007 über die Typgenehmigung von Kraftfahrzeugen, gegen die die Beklagte durch den Einsatz der Software und die Manipulation des Prüfungsverfahrens verstoßen hat, nicht dem Schutz individueller Vermögensinteressen, sondern gesamtgesellschaftlichen Zielen diene, und deshalb Vermögensschäden im Zusammenhang mit dem Verstoß der Beklagten nicht unter den Schutzbereich des § 826 BGB fielen, folgt das Gericht dieser Auffassung nicht.",
+            "EG-VO 715/2007 erteilt die nationale Zulassungsbehörde die Typgenehmigung, wenn das betreffende Fahrzeug den Vorschriften der Verordnung und ihrer Durchführungsbestimmungen entspricht.",
+            "Nach Art. 5 Abs. 1 EG-VO 715/2007 hat der Hersteller das Fahrzeug so auszurüsten, dass die Bauteile, die das Emissionsverhalten voraussichtlich beeinflussen, so konstruiert, gefertigt und montiert sind, dass das Fahrzeug unter normalen Betriebsbedingungen dieser Verordnung und ihren Durchführungsmaßnahmen entspricht."
+        ]
+    },
+    {
+        "tatbestand": "Das Fahrzeug erhielt folglich auch die EG-Typengenehmigung und wird von der Beklagten seitdem massenhaft in den Verkehr gebracht.",
+        "begründung": [
+            "Dabei knüpft jeder Erwerber unabhängig von der Person des Verkäufers an das Fahrzeug die Erwartung, dass er dieses dauerhaft und ohne Gefahr des Widerrufs der Typengenehmigung und der Stilllegung nutzen - diese geradezu selbstverständliche Erwartung prägt geradezu den Wert des Fahrzeugs und stellt ein offenbar wesentliches Kriterium für die Anschaffungsentscheidung dar (so auch LG Stuttgart, Urteil vom 08.02.2018 - 19 O 68/17 = zitiert nach juris)."
+        ]
+    },
+    {
+        "tatbestand": "Im Jahre 2015 erließ das Kraftfahrtbundesamt (im Folgenden: KBA) einen - inzwischen bestandskräftigen - Bescheid, wonach es feststellte, dass es sich bei der geschilderten Software um eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 S. 1 VO (EG) 715/2007 i.V.m. Art. 3 Nr. 10 VO (EG) 715/007 handele und in dem es den Rückruf der Fahrzeuge anordnete, die in einen Zustand zu bringen sind, der den öffentlichrechtlichen Normen entspricht.",
+        "begründung": [
+            "Art. 3 Nr. 10 VO (EG) 715/2007 eingebaut war, die einer Zulassung objektiv entgegenstand.",
+            "Stattdessen hat der Kläger einen Vertrag über einen Pkw geschlossen, der zwar formal über eine erteilte EG-Typgenehmigung verfügte, in den aber gleichzeitig eine unzulässige Abschaltvorrichtung im Sinne von Art. 5 Abs. 2 S. 1"
+        ]
+    },
+    {
+        "tatbestand": "Seitens der Beklagten wird - in Abstimmung mit dem KBA - eine technische Überarbeitung mittels Software-Update angeboten.",
+        "begründung": [
+            "Bei gehöriger Aufklärung hätte der Kläger vielmehr erkannt, dass sich aus der geschilderten Problematik die Gefahr der Stilllegung des Fahrzeugs sowie die Gefahr eines massiven Wertverlustes der Kaufsache ergeben und vom Kauf abgesehen (wofür nach Auffassung des LG Duisburg, Urteil vom 19.02.2018 - 1 O 178/17= zitiert nach juris bereits ein Anscheinsbeweis spricht), zumal zum Zeitpunkt des Kaufvertragsschlusses nicht absehbar gewesen wäre, dass die Beklagte kurzfristig in der Lage ist, ein Software-Update zu entwickeln, dass tatsächlich die Zulassungsfähigkeit herstellt ohne negative Auswirkungen für das Fahrzeug mit sich zu bringen.",
+            "Dass die Beklagte Nacherfüllung in Form des Aufspielens eines mit dem KBA abgestimmten Software-Updates angeboten hat und ob bzw. dass dies auch vom Kläger wahrgenommen worden ist, ist ohne Relevanz."
+        ]
+    },
+    {
+        "tatbestand": "Funktionsweise, Kosten und Auswirkungen des Software-Updates sind zwischen den Parteien streitig.",
+        "begründung": [
+            "Der Geschädigte muss sich vom Schädiger nicht das Festhalten an dem Vertrag aufdrängen lassen, zumal die (etwaig nachteiligen) Folgen des Software-Updates möglicherweise erst nach einem längeren Dauerbetrieb auftreten und nur mittels kostspieligen Sachverständigengutachtens geklärt werden können (so auch LG Stuttgart, Urteil vom 08.02.2018, 19 O 68/17 = zitiert nach juris).",
+            "Selbst das jetzt vorliegende Update berücksichtigt nach dem Vortrag der Beklagten die Erkenntnisse aus der Weiterentwicklung des Diesel-Brennverfahrens der letzten Jahre, die damals noch gar nicht vorlagen."
+        ]
+    },
+    {
+        "tatbestand": "Zuletzt betrug der km-Stand 177.793 km.",
+        "begründung": [
+            "Die tatsächlich gefahrenen Kilometer bis zum Schluss der mündlichen Verhandlung entnimmt das Gericht den unstreitigen Angaben beider Parteien, die übereinstimmend einen km-Stand von 177.793 km angegeben haben, wobei der km-Stand bei Übergabe an den Kläger 0 km betragen hat."
+        ]
+    },
+    {
+        "tatbestand": "Mit Schreiben vom 01.03.2019 (Anlage K 2) forderte der - rechtsanwaltlich vertretene - Kläger die Beklagte erfolglos unter Fristsetzung auf, den vollen Kaufpreis - ohne Abzug eines Nutzungsersatzes - Zug um Zug gegen Übergabe des Fahrzeugs zu erstatten.",
+        "begründung": [
+            "Der Kläger hat die Herausgabe des Fahrzeugs außergerichtlich (vgl. Anlage K2) nur gegen Zahlung des vollen Kaufpreises angeboten und der Beklagten den Kilometerstand des Fahrzeugs nicht mitgeteilt.",
+            "Dies ist bei dem Zug um Zug-Antrag des Klägers, welcher im Schreiben gemäß K2 enthalten war, nicht der Fall, da der Beklagten ein Zurückbehaltungsrecht aus § 320 BGB zusteht.",
+            "Voraussetzung für einen Anspruch auf Verzugszinsen ist jedoch, dass die geltend gemachte Forderung fällig ist."
+        ]
+    },
+    {
+        "tatbestand": "Schließlich begehrt der Kläger Zahlung außergerichtlicher Rechtsanwaltskosten und von Zinsen.",
+        "begründung": [
+            "Dem Kläger steht weiter ein Anspruch auf Zahlung von vorgerichtlichen Rechtsanwaltskosten (§§ 826, 249 Abs. 1 BGB) zu, allerdings nur aus einer 1,3 Geschäftsgebühr in Höhe von 958,19 €."
+        ]
+    },
+    {
+        "tatbestand": "Der Kläger stützt seine Klage u.a. auf Ansprüche nach §§ 826, 31 BGB.",
+        "begründung": [
+            "Soweit von Beklagtenseite und teilweise auch in der Rechtsprechung (vgl. LG Köln, Urteil vom 07.10.2016 - 7 O 138/16 LG Ellwangen, Urteil vom 10.06.2016 - 5 O 385/15 LG Braunschweig, Urteil vom 19. Mai 2017 - 11 O 4153/16 - jeweils zitiert nach juris) die Auffassung vertreten wird, eine Haftung nach § 826 BGB scheide schon deshalb aus, weil die Verordnung (EG) Nr. 715/2007 über die Typgenehmigung von Kraftfahrzeugen, gegen die die Beklagte durch den Einsatz der Software und die Manipulation des Prüfungsverfahrens verstoßen hat, nicht dem Schutz individueller Vermögensinteressen, sondern gesamtgesellschaftlichen Zielen diene, und deshalb Vermögensschäden im Zusammenhang mit dem Verstoß der Beklagten nicht unter den Schutzbereich des § 826 BGB fielen, folgt das Gericht dieser Auffassung nicht.",
+            "Der Schadensbegriff des § 826 BGB ist vielmehr subjektbezogen, so dass bei wertender Betrachtung Vermögensminderungen oder nachteilige Einwirkungen auf die Vermögenslage umfasst sind, wie - bei Eingriff in die Dispositionsfreiheit - die Belastung mit einer ungewollten Verpflichtung oder die Vermögensgefährdung durch Eingehung eines nachteiligen Geschäfts (BGH, Urteil vom 19.07.2004 -",
+            "Dem Kläger steht gegen die Beklagte gemäß § 826 BGB ein Schadensersatzanspruch nebst Zinsen zu, Zug um Zug gegen Übergabe und Übereignung des streitgegenständlichen Fahrzeugs.",
+            "Ein Schaden im Sinne von § 826 BGB ist nicht nur jede nachteilige Einwirkung auf die Vermögenslage, in dem Sinne, dass sich bei dem vorzunehmenden Vergleich der infolge des haftungsbegründenden Ereignisses eingetretenen Vermögenslage mit derjenigen, die ohne jenes Ereignis eingetreten wäre, ein rechnerisches Minus ergibt.",
+            "„Die Haftung aus § 826 BGB hängt nicht davon ab, auf welchem Weg und unter Verstoß gegen welche gesetzlichen Vorschriften der Schädiger gehandelt hat (vgl. LG Hildesheim, Urteil vom 17.01.2017 - 3 O 139/16;",
+            "Ein Schadensersatzanspruch aus § 826 BGB hängt schließlich auch nicht davon ab, ob der Käufer seinen Vermögensschaden von einer anderen Person ersetzt verlangen kann.",
+            "Dem Kläger ist durch den Erwerb des streitgegenständlichen Pkw ein Schaden im Sinne von § 826 BGB entstanden."
+        ]
+    },
+    {
+        "tatbestand": "Er ist der Meinung, bei der sog. Umschaltlogik handele es sich um eine unzulässige Abschalteinrichtung im Sinne von Art. 5 Abs. 2 S. 1 VO (EG) 715/2007 i.V.m. Art. 3 Nr. 10 VO (EG) 715/2007 - dies sei bereits durch den Bescheid des KBA bindend festgestellt.",
+        "begründung": [
+            "Der Beklagten war bewusst, dass sie die Anforderungen der Abgasnormen nicht ohne die unzulässige Abschalteinrichtung erfüllen konnte.",
+            "3 Nr. 10 EG-VO 715/2007 ist eine „Abschalteinrichtung“ ein Konstruktionsteil, das die Temperatur, die Fahrzeuggeschwindigkeit, die Motordrehzahl (UpM), den eingelegten Getriebegang, den Unterdruck im Einlasskrümmer oder sonstige Parameter ermittelt, um die Funktion eines beliebigen Teils des Emissionskontrollsystems zu aktivieren, zu verändern, zu verzögern oder zu deaktivieren, wodurch die Wirksamkeit des Emissionskontrollsystems unter Bedingungen, die bei normalem Fahrzeugbetrieb vernünftigerweise zu erwarten sind, verringert wird.",
+            "Art. 3 Nr. 10 VO (EG) 715/2007 eingebaut war, die einer Zulassung objektiv entgegenstand.",
+            "Stattdessen hat der Kläger einen Vertrag über einen Pkw geschlossen, der zwar formal über eine erteilte EG-Typgenehmigung verfügte, in den aber gleichzeitig eine unzulässige Abschaltvorrichtung im Sinne von Art. 5 Abs. 2 S. 1",
+            "5 Abs. 2 EG-VO 715/2007 ist die Verwendung von Abschalteinrichtungen, die die Wirkung von Emissionskontrollsystemen verringern, unzulässig.",
+            "Das streitgegenständliche Fahrzeug verfügte nach Auffassung des Gerichts über eine unzulässige Abschalteinrichtung im derartigen Sinne, so dass die Voraussetzungen für die Erteilung der EG-Typgenehmigung nicht vorliegen."
+        ]
+    },
+    {
+        "tatbestand": "Die Beklagte habe - auch auf Vorstandsebene - schon zum Zeitpunkt des hiesigen Kaufvertragsschlusses Kenntnisse über die Manipulationssoftware gehabt.",
+        "begründung": [
+            "LG Bonn, Urteil vom 07.03.2018 - 19 O 327/17 = zitiert nach juris) - kein Vorstandsmitglied Kenntnis von dieser Entscheidung hatte, sondern diese weitreichende Entscheidung tatsächlich von Mitarbeitern unterhalb der Vorstandsebene auf nachgeordneter Arbeitsebene getroffen worden sein sollte, läge insoweit offenbar ein massives Organisationsdefizit vor, so dass sich die Beklagte so behandeln lassen muss, als wären die handelnden Mitarbeiter ihre verfassungsmäßigen Vertreter (so auch LG Essen, Urteil vom 28.08.2017 - 4 O 114/17 = zitiert nach juris;"
+        ]
+    },
+    {
+        "tatbestand": "Der Kläger ist der Meinung, dass die erteilte Typengenehmigung von Anfang an und auch nach Aufspielen des Updates unwirksam sei - das Fahrzeug befinde sich in einem nicht zulassungsfähigen Zustand, so dass das Risiko bestehe, dass das Fahrzeug mangels Genehmigung stillgelegt werde.",
+        "begründung": [
+            "Bei gehöriger Aufklärung hätte der Kläger vielmehr erkannt, dass sich aus der geschilderten Problematik die Gefahr der Stilllegung des Fahrzeugs sowie die Gefahr eines massiven Wertverlustes der Kaufsache ergeben und vom Kauf abgesehen (wofür nach Auffassung des LG Duisburg, Urteil vom 19.02.2018 - 1 O 178/17= zitiert nach juris bereits ein Anscheinsbeweis spricht), zumal zum Zeitpunkt des Kaufvertragsschlusses nicht absehbar gewesen wäre, dass die Beklagte kurzfristig in der Lage ist, ein Software-Update zu entwickeln, dass tatsächlich die Zulassungsfähigkeit herstellt ohne negative Auswirkungen für das Fahrzeug mit sich zu bringen."
+        ]
+    },
+    {
+        "tatbestand": "Insbesondere über das Bestehen der Typengenehmigung, aber auch über andere Punkte, wie die Schadstoffwerte sei von der Beklagten getäuscht worden.",
+        "begründung": [
+            "„Die daraus zu entnehmende Gesinnung, aus Gewinnstreben massenhaft die Käufer der so produzierten Autos bei ihrer Kaufentscheidung zu täuschen, die Wettbewerber zu benachteiligen und die Umwelt so zu schädigen, dass Gesundheitsgefahren [für die Allgemeinheit] drohen, weil die Schadstoffwerte (NOx) erhöht werden, lässt das Verhalten insgesamt als sittenwidrig erscheinen.",
+            "Diese hat den Motor des streitgegenständlichen Pkw mit Abschalteinrichtung entwickelt, produziert und ihren Tochterunternehmen zur Verfügung gestellt, was dazu geführt hat, dass durch das Vorspiegeln scheinbar zulässiger Emissionswerte gegenüber dem KBA die EG-Typgenehmigung erschlichen wurde und das Fahrzeug schließlich durch ihr Tochterunternehmen so vertreiben lassen, dass es in den Verkehr gelangt.",
+            "Die der Beklagten zuzurechnende Handlung war auch vorsätzlich, da die handelnden Personen jedenfalls Art und Richtung des Schadens (massenhafter Abschluss von Kaufverträgen überFahrzeuge, deren EG-Typgenehmigung erschlichen war) und die Schadensfolgen (Begehr auf Rückgängigmachung des Kaufvertrages) vorausgesehen und zumindest billigend in Kauf genommen haben."
+        ]
+    },
+    {
+        "tatbestand": "In Kenntnis der gesamten Thematik hätte er das streitgegenständliche Fahrzeug nicht erworben.",
+        "begründung": [
+            "Objektive Anhaltspunkte dafür, dass dies im konkreten Fall ausnahmsweise anders war - der Kläger das Fahrzeug mithin auch in Kenntnis der Umschaltlogik zu den vereinbarten Konditionen erworben hätte - sind weder vorgetragen, noch ersichtlich."
+        ]
+    },
+    {
+        "tatbestand": "Zudem führe das Update zu negativen Auswirkungen auf das Fahrzeug.",
+        "begründung": [
+            "Der Geschädigte muss sich vom Schädiger nicht das Festhalten an dem Vertrag aufdrängen lassen, zumal die (etwaig nachteiligen) Folgen des Software-Updates möglicherweise erst nach einem längeren Dauerbetrieb auftreten und nur mittels kostspieligen Sachverständigengutachtens geklärt werden können (so auch LG Stuttgart, Urteil vom 08.02.2018, 19 O 68/17 = zitiert nach juris)."
+        ]
+    },
+    {
+        "tatbestand": "Auch führe allein die Betroffenheit des Pkws vom Abgasskandal dazu, dass der Marktwert des Fahrzeugs nicht unerheblich gesunken sei.",
+        "begründung": [
+            "Bei gehöriger Aufklärung hätte der Kläger vielmehr erkannt, dass sich aus der geschilderten Problematik die Gefahr der Stilllegung des Fahrzeugs sowie die Gefahr eines massiven Wertverlustes der Kaufsache ergeben und vom Kauf abgesehen (wofür nach Auffassung des LG Duisburg, Urteil vom 19.02.2018 - 1 O 178/17= zitiert nach juris bereits ein Anscheinsbeweis spricht), zumal zum Zeitpunkt des Kaufvertragsschlusses nicht absehbar gewesen wäre, dass die Beklagte kurzfristig in der Lage ist, ein Software-Update zu entwickeln, dass tatsächlich die Zulassungsfähigkeit herstellt ohne negative Auswirkungen für das Fahrzeug mit sich zu bringen.",
+            "Unter Berücksichtigung dieser Grundsätze - denen das Gericht folgt - stellt bereits die Tatsache, dass der Kläger aufgrund des Verschweigens der Beklagten über den Einsatz der Umschaltlogik bzw. der Motorsteuerungssoftware einen für ihn ungewollten wirtschaftlich nachteiligen Vertrag (Anlage K 1) mit dem Veräußerer des streitgegenständlichen Pkw geschlossen hat, einen derartigen Schaden dar, da sein Vermögen bereits dadurch - unabhängig von einem messbaren Vermögensnachteil durch einen entstehenden Wertverlust - mit einer ungewollten Verbindlichkeit negativ belastet ist.",
+            "Der Käufer eines Fahrzeuges erwartet regelmäßig, dass er sein Fahrzeug dauerhaft und uneingeschränkt nutzen kann und er sich nicht zu einem ungewissen Zeitpunkt in der Zukunft damit konfrontiert sieht, dass ein Entzug der Zulassung und bei Weiterveräußerung des Fahrzeugs ein massiver Wertverlust droht.",
+            "Nach § 849 BGB kann der Verletzte Zinsen des zu ersetzenden Betrags von dem Zeitpunkt an verlangen, welcher der Bestimmung des Wertes zugrunde gelegt wird, wenn wegen der Entziehung einer Sache der Wert oder wegen der Beschädigung einer Sache die Wertminderung zu ersetzen ist.",
+            "Dabei knüpft jeder Erwerber unabhängig von der Person des Verkäufers an das Fahrzeug die Erwartung, dass er dieses dauerhaft und ohne Gefahr des Widerrufs der Typengenehmigung und der Stilllegung nutzen - diese geradezu selbstverständliche Erwartung prägt geradezu den Wert des Fahrzeugs und stellt ein offenbar wesentliches Kriterium für die Anschaffungsentscheidung dar (so auch LG Stuttgart, Urteil vom 08.02.2018 - 19 O 68/17 = zitiert nach juris)."
+        ]
+    },
+    {
+        "tatbestand": "1.Die Beklagte wird verurteilt, an die Klägerpartei EUR 28.607,00 € nebst Zinsen in Höhe von 4 Prozent seit dem 28.09.2010 bis 15.03.2019 und seither von fünf Prozentpunkten über dem Basiszinssatz Zugum-Zug gegen Rückgabe und Übereignung des Fahrzeuges der Marke Volkswagen Tiguan Sport & Style 2.0 TDI mit der Fahrgestellnummer zu zahlen.",
+        "begründung": [
+            "Hierbei waren die unter Ziffer 1 der Klageanträge beantragten Zinsen (4% aus 28.607,00 für etwa 8,45 Jahre), die der Abweisung unterlagen zu berücksichtigen."
+        ]
+    },
+    {
+        "tatbestand": "2.Es wird festgestellt, dass sich die Beklagte seit dem16.03.2019 mit der Rücknahme des im Klageantrag zu 1. bezeichneten Gegenstands in Annahmeverzug befindet.",
+        "begründung": [
+            "Aus diesem Grund hat der Kläger das Fahrzeug trotz des ausdrücklichen Übergabeangebots nicht in Annahmeverzug begründender Weise angeboten.",
+            "Der Antrag des Klägers auf Feststellung des Annahmeverzuges war abzuweisen (§ 256 Abs. 1, 293 f. BGB).",
+            "Etwas anderes würde nur dann anzunehmen sein, wenn sich der Gläubiger bereits mit der Leistung in Annahmeverzug befindet."
+        ]
+    },
+    {
+        "tatbestand": "Die Beklagte ist der Meinung, die Umschaltlogik stelle bereits keine unzulässige Abschalteinrichtung dar, da die Software nicht Bestandteil des Emissionskontrollsystems sei und auch nicht im realen Fahrbetrieb auf dieses einwirke - vielmehr handele es sich um eine bloße innermotorische Maßnahme (Abgasrückführung in den Ansaugtrakt des Motors), die von den nachgelagerten Maßnahmen der Abgasreinigung zu unterscheiden sei.",
+        "begründung": [
+            "3 Nr. 10 EG-VO 715/2007 ist eine „Abschalteinrichtung“ ein Konstruktionsteil, das die Temperatur, die Fahrzeuggeschwindigkeit, die Motordrehzahl (UpM), den eingelegten Getriebegang, den Unterdruck im Einlasskrümmer oder sonstige Parameter ermittelt, um die Funktion eines beliebigen Teils des Emissionskontrollsystems zu aktivieren, zu verändern, zu verzögern oder zu deaktivieren, wodurch die Wirksamkeit des Emissionskontrollsystems unter Bedingungen, die bei normalem Fahrzeugbetrieb vernünftigerweise zu erwarten sind, verringert wird.",
+            "Die von der Beklagten geschilderte Umschaltlogik - d.h. der Betrieb in zwei verschiedenen Betriebsmodi, bei Rückführung von Emissionen aus dem Verbrennungsprozess durch eine Abgasrückführung teilweise wieder in den Verbrennungsprozess hinein - ist Teil eines Emissionskontrollsystems im Sinne von Art."
+        ]
+    },
+    {
+        "tatbestand": "Die Beklagte meint weiter, der Sachvortrag des Klägers zur Kenntnis der Beklagten sei unsubstantiiert.",
+        "begründung": [
+            "1. Nachdem davon auszugehen ist, dass der Kläger bei Kenntnis des Sachverhalts und der damit verbundenen Risiken für den Fortbestand der Betriebserlaubnis einerseits und des Wertes des Fahrzeugs andererseits den Kaufvertrag über den streitgegenständlichen Pkw nicht geschlossen hätte und damit der Schaden bereits bei Eingehung des Vertrages bzw. mit Vertragsschluss entstanden ist, ist er so zu stellen, als hätte er den Vertrag nicht geschlossen.",
+            "LG Bonn, Urteil vom 07.03.2018 - 19 O 327/17 = zitiert nach juris) - kein Vorstandsmitglied Kenntnis von dieser Entscheidung hatte, sondern diese weitreichende Entscheidung tatsächlich von Mitarbeitern unterhalb der Vorstandsebene auf nachgeordneter Arbeitsebene getroffen worden sein sollte, läge insoweit offenbar ein massives Organisationsdefizit vor, so dass sich die Beklagte so behandeln lassen muss, als wären die handelnden Mitarbeiter ihre verfassungsmäßigen Vertreter (so auch LG Essen, Urteil vom 28.08.2017 - 4 O 114/17 = zitiert nach juris;",
+            "Die subjektive Kenntnis der die Sittenwidrigkeit begründenden Umstände war bei den handelnden Personen unzweifelhaft gegeben."
+        ]
+    },
+    {
+        "tatbestand": "Nach jetzigen Erkenntnissen - die Aufklärung sei noch nicht abgeschlossen - sei davon auszugehen, dass die Entscheidung, die Motorsteuerungssoftware zu verändern, von Mitarbeitern unterhalb der Vorstandsebene auf nachgeordneten Arbeitsebenen getroffen worden sei.",
+        "begründung": [
+            "1. Nachdem davon auszugehen ist, dass der Kläger bei Kenntnis des Sachverhalts und der damit verbundenen Risiken für den Fortbestand der Betriebserlaubnis einerseits und des Wertes des Fahrzeugs andererseits den Kaufvertrag über den streitgegenständlichen Pkw nicht geschlossen hätte und damit der Schaden bereits bei Eingehung des Vertrages bzw. mit Vertragsschluss entstanden ist, ist er so zu stellen, als hätte er den Vertrag nicht geschlossen.",
+            "LG Bonn, Urteil vom 07.03.2018 - 19 O 327/17 = zitiert nach juris) - kein Vorstandsmitglied Kenntnis von dieser Entscheidung hatte, sondern diese weitreichende Entscheidung tatsächlich von Mitarbeitern unterhalb der Vorstandsebene auf nachgeordneter Arbeitsebene getroffen worden sein sollte, läge insoweit offenbar ein massives Organisationsdefizit vor, so dass sich die Beklagte so behandeln lassen muss, als wären die handelnden Mitarbeiter ihre verfassungsmäßigen Vertreter (so auch LG Essen, Urteil vom 28.08.2017 - 4 O 114/17 = zitiert nach juris;",
+            "Die subjektive Kenntnis der die Sittenwidrigkeit begründenden Umstände war bei den handelnden Personen unzweifelhaft gegeben."
+        ]
+    },
+    {
+        "tatbestand": "Weder der damalige Vorstandsvorsitzende noch einzelne Vorstandsmitglieder seien hieran beteiligt gewesen oder hätten dies gebilligt.",
+        "begründung": [
+            "LG Bonn, Urteil vom 07.03.2018 - 19 O 327/17 = zitiert nach juris) - kein Vorstandsmitglied Kenntnis von dieser Entscheidung hatte, sondern diese weitreichende Entscheidung tatsächlich von Mitarbeitern unterhalb der Vorstandsebene auf nachgeordneter Arbeitsebene getroffen worden sein sollte, läge insoweit offenbar ein massives Organisationsdefizit vor, so dass sich die Beklagte so behandeln lassen muss, als wären die handelnden Mitarbeiter ihre verfassungsmäßigen Vertreter (so auch LG Essen, Urteil vom 28.08.2017 - 4 O 114/17 = zitiert nach juris;"
+        ]
+    },
+    {
+        "tatbestand": "Die erteilte Typengenehmigung sei wirksam und das Fahrzeug weiterhin technisch sicher und uneingeschränkt gebrauchstauglich.",
+        "begründung": [
+            "Dabei knüpft jeder Erwerber unabhängig von der Person des Verkäufers an das Fahrzeug die Erwartung, dass er dieses dauerhaft und ohne Gefahr des Widerrufs der Typengenehmigung und der Stilllegung nutzen - diese geradezu selbstverständliche Erwartung prägt geradezu den Wert des Fahrzeugs und stellt ein offenbar wesentliches Kriterium für die Anschaffungsentscheidung dar (so auch LG Stuttgart, Urteil vom 08.02.2018 - 19 O 68/17 = zitiert nach juris)."
+        ]
+    },
+    {
+        "tatbestand": "Sowohl mangels Einbindung der Beklagten in den Verkaufsvorgang als auch ansonsten seien keinerlei Täuschungen durch die Beklagte erfolgt, insbesondere nicht bzgl. der Typengenehmigung, der Nutzbarkeit des Fahrzeugs oder der Schadstoffwerte.",
+        "begründung": [
+            "Dabei knüpft jeder Erwerber unabhängig von der Person des Verkäufers an das Fahrzeug die Erwartung, dass er dieses dauerhaft und ohne Gefahr des Widerrufs der Typengenehmigung und der Stilllegung nutzen - diese geradezu selbstverständliche Erwartung prägt geradezu den Wert des Fahrzeugs und stellt ein offenbar wesentliches Kriterium für die Anschaffungsentscheidung dar (so auch LG Stuttgart, Urteil vom 08.02.2018 - 19 O 68/17 = zitiert nach juris)."
+        ]
+    },
+    {
+        "tatbestand": "Das Update führe nicht zu Leistungseinbußen, Erhöhung des Kraftstoffverbrauchs oder verringerter Lebensdauer des Fahrzeugs.",
+        "begründung": [
+            "Der Geschädigte muss sich vom Schädiger nicht das Festhalten an dem Vertrag aufdrängen lassen, zumal die (etwaig nachteiligen) Folgen des Software-Updates möglicherweise erst nach einem längeren Dauerbetrieb auftreten und nur mittels kostspieligen Sachverständigengutachtens geklärt werden können (so auch LG Stuttgart, Urteil vom 08.02.2018, 19 O 68/17 = zitiert nach juris)."
+        ]
+    },
+    {
+        "tatbestand": "Vielmehr werde durch die Veränderung diverser Parameter nunmehr ein einheitlicher adaptierter Modus 1 geschaffen, der auch im regulären Straßenbetrieb gefahren werde und der keinerlei negative Auswirkungen auf das Fahrzeug habe.",
+        "begründung": [
+            "Der Geschädigte muss sich vom Schädiger nicht das Festhalten an dem Vertrag aufdrängen lassen, zumal die (etwaig nachteiligen) Folgen des Software-Updates möglicherweise erst nach einem längeren Dauerbetrieb auftreten und nur mittels kostspieligen Sachverständigengutachtens geklärt werden können (so auch LG Stuttgart, Urteil vom 08.02.2018, 19 O 68/17 = zitiert nach juris).",
+            "Die Motorsteuerung, die den Prüfzyklus erkennt, schaltet im Modus 0 (regulärer Straßenbetrieb) die Abgasrückführung, die der Kontrolle der Emissionen und der Reduzierung des Schadstoffausstoßes dient, ab."
+        ]
+    },
+    {
+        "tatbestand": "Entsprechendes habe auch das KBA mit dem Bescheid, mit dem das Update freigegeben wurde - bestätigt.",
+        "begründung": [
+            "Der Geschädigte muss sich vom Schädiger nicht das Festhalten an dem Vertrag aufdrängen lassen, zumal die (etwaig nachteiligen) Folgen des Software-Updates möglicherweise erst nach einem längeren Dauerbetrieb auftreten und nur mittels kostspieligen Sachverständigengutachtens geklärt werden können (so auch LG Stuttgart, Urteil vom 08.02.2018, 19 O 68/17 = zitiert nach juris).",
+            "Dass die Beklagte Nacherfüllung in Form des Aufspielens eines mit dem KBA abgestimmten Software-Updates angeboten hat und ob bzw. dass dies auch vom Kläger wahrgenommen worden ist, ist ohne Relevanz."
+        ]
+    },
+    {
+        "tatbestand": "Angesichts der fortbestehenden Nutzbarkeit und des geringen Update-Aufwands sei auch mit Nichtwissen zu bestreiten, dass die Klägerin den Kaufvertrag überhaupt nicht geschlossen hätte, wenn er von der Existenz der Software gewusst hätte.",
+        "begründung": [
+            "Der Geschädigte muss sich vom Schädiger nicht das Festhalten an dem Vertrag aufdrängen lassen, zumal die (etwaig nachteiligen) Folgen des Software-Updates möglicherweise erst nach einem längeren Dauerbetrieb auftreten und nur mittels kostspieligen Sachverständigengutachtens geklärt werden können (so auch LG Stuttgart, Urteil vom 08.02.2018, 19 O 68/17 = zitiert nach juris).",
+            "Objektive Anhaltspunkte dafür, dass dies im konkreten Fall ausnahmsweise anders war - der Kläger das Fahrzeug mithin auch in Kenntnis der Umschaltlogik zu den vereinbarten Konditionen erworben hätte - sind weder vorgetragen, noch ersichtlich."
+        ]
+    },
+    {
+        "tatbestand": "Die Marktwerte der betroffenen Fahrzeuge seien stabil.",
+        "begründung": [
+            "Bei gehöriger Aufklärung hätte der Kläger vielmehr erkannt, dass sich aus der geschilderten Problematik die Gefahr der Stilllegung des Fahrzeugs sowie die Gefahr eines massiven Wertverlustes der Kaufsache ergeben und vom Kauf abgesehen (wofür nach Auffassung des LG Duisburg, Urteil vom 19.02.2018 - 1 O 178/17= zitiert nach juris bereits ein Anscheinsbeweis spricht), zumal zum Zeitpunkt des Kaufvertragsschlusses nicht absehbar gewesen wäre, dass die Beklagte kurzfristig in der Lage ist, ein Software-Update zu entwickeln, dass tatsächlich die Zulassungsfähigkeit herstellt ohne negative Auswirkungen für das Fahrzeug mit sich zu bringen."
+        ]
+    },
+    {
+        "tatbestand": "Bezüglich der Anrechnung von Nutzungen sei von einer Gesamtlaufleistung im Bereich 200.000 - 250.000 km auszugehen.",
+        "begründung": [
+            "Der Kläger hat in demselben Zeitraum das streitgegenständliche Fahrzeug genutzt und bis zum Schluss der mündlichen Verhandlung insgesamt eine Strecke von mehr als 170.000 km damit zurückgelegt.",
+            "Hierbei geht das Gericht nach § 287 ZPO von einer Gesamtlaufleistung von 300.000 km aus, was bei einem neueren Dieselfahrzeug durchaus realistisch erscheint (so etwa auch LG Duisburg, Urteil vom 19.02.2018 - 1 O 178/17 = zitiert nach juris;",
+            "Die tatsächlich gefahrenen Kilometer bis zum Schluss der mündlichen Verhandlung entnimmt das Gericht den unstreitigen Angaben beider Parteien, die übereinstimmend einen km-Stand von 177.793 km angegeben haben, wobei der km-Stand bei Übergabe an den Kläger 0 km betragen hat."
+        ]
+    },
+    {
+        "tatbestand": "Wegen der weiteren Einzelheiten des umfangreichen Sachvortrags der Parteien wird auf die gewechselten Schriftsätze nebst Anlagen, das Protokoll der mündlichen Verhandlung vom 04.06.2020 (Bl. 554ff. d.A.) und den sonstigen Akteninhalt Bezug genommen.",
+        "begründung": [
+            "Die von der Beklagten vormals erhobene Einrede der Verjährung wurde in der mündlichen Verhandlung vom 04.06.2020 fallen gelassen, so dass es hierauf nicht weiter ankommt.",
+            "In der Klageschrift hat der Kläger die Laufleistung nicht mitgeteilt, sondern dies erst in der mündlichen Verhandlung vom 04.06.2020 nachgeholt, so dass die Beklagte erst ab diesem Zeitpunkt den von ihr geschuldeten Schadenersatz ermitteln konnte.",
+            "Im Übrigen hat der Kläger im Termin zur mündlichen Verhandlung vom 04.06.2020 seinen Klageantrag ausdrücklich mit der Maßgabe gestellt, dass kein Nutzungsersatz geschuldet sei."
+        ]
+    }
+]

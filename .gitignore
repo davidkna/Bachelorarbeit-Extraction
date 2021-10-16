@@ -130,3 +130,10 @@ dmypy.json
 
 *.spacy
 *.conll
+
+stats/computed/**/*.json
+stats/plots/*.json
+stats/plots/*.tex
+stats/plots/*.png
+server/oldp-urteile/*.json
+.vscode

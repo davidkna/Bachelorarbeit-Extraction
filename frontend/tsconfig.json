@@ -1,0 +1,14 @@
+{
+    "include": ["src", "types"],
+    "compilerOptions": {
+      "module": "esnext",
+      "target": "esnext",
+      "moduleResolution": "node",
+      "skipLibCheck": true,
+      "types": ["DOM", "dom.iterable", "ES2020"],
+      "jsx": "react-jsx",
+      "resolveJsonModule": true,
+      "allowSyntheticDefaultImports": true,
+      "importsNotUsedAsValues": "error"
+    }
+  }
